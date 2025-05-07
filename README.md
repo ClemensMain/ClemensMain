@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**ClemensMain/ClemensMain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-## Hi there 👋
-
 I am Clemens, a psychologist with a passion for digital innovation and process optimization. My journey has taken me from psychology to the publishing world, to digital projects in psychiatry, and finally to my current PhD, which focuses on digital interventions in child and adolescent psychiatry.
 
 ### 🔭 I’m currently working on:
